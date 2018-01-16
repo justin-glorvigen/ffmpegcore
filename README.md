@@ -5,4 +5,4 @@ Uses a compiled ffmpeg executable for Windows x64, if you are on a 32-bit versio
 
 FFMPEG License Information: https://www.ffmpeg.org/legal.html
 
-Included legal statement for FFmpeg: "This software uses code of <a href=http://ffmpeg.org>FFmpeg</a> licensed under the <a href=http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html>LGPLv2.1</a> and its source can be downloaded on github".
+Included legal statement for FFmpeg: "This software uses code of <a href=http://ffmpeg.org>FFmpeg</a> licensed under the <a href=http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html>LGPLv2.1</a> and its source can be downloaded on <a href="https://github.com/justin-glorvigen/ffmpegcore" target="_blank">github</a>".
