@@ -1,0 +1,10 @@
+demo/bin
+core-ffmpeg/bin
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+.vs/
