@@ -1,7 +1,7 @@
 # ffmpegcore
-.NET Core Utility for leveraging the ffmpeg executable for windows (Would probably work for other OS's supported by .NET Core with a little tweaking)
+.NET Core Utility for leveraging the ffmpeg executable for windows (Would probably work for other OS's supported by .NET Core with a little tweaking and the matching ffmpeg binary)
 
-Uses a compiled ffmpeg executable for Windows x64, if you are on a 32-bit version just download it (<a href="https://www.ffmpeg.org/download.html" target="_blank">link</a>) and replace it in the App_Data folder of the utility.
+Uses a compiled ffmpeg executable for Windows x64, if you are on a 32-bit version just download it (<a href="https://www.ffmpeg.org/download.html" target="_blank">link</a>) and replace it in the App_Data folder of the ffmpegcore project.
 
 FFMPEG License Information: https://www.ffmpeg.org/legal.html
 
